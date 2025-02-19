@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Boss\\source\\repos\\ETT1_WIN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F3B041-F391-44B4-917C-8EAE328F3CF7}|ett1_win.csproj|c:\\users\\boss\\source\\repos\\ett1_win\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F3B041-F391-44B4-917C-8EAE328F3CF7}|ett1_win.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F3B041-F391-44B4-917C-8EAE328F3CF7}|ett1_win.csproj|C:\\Users\\Boss\\source\\repos\\ETT1_WIN\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C4F3B041-F391-44B4-917C-8EAE328F3CF7}|ett1_win.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F3B041-F391-44B4-917C-8EAE328F3CF7}|ett1_win.csproj|C:\\Users\\Boss\\source\\repos\\ETT1_WIN\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F3B041-F391-44B4-917C-8EAE328F3CF7}|ett1_win.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F3B041-F391-44B4-917C-8EAE328F3CF7}|ett1_win.csproj|C:\\Users\\Boss\\source\\repos\\ETT1_WIN\\migrations\\202403200916343_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F3B041-F391-44B4-917C-8EAE328F3CF7}|ett1_win.csproj|solutionrelative:migrations\\202403200916343_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F3B041-F391-44B4-917C-8EAE328F3CF7}|ett1_win.csproj|C:\\Users\\Boss\\source\\repos\\ETT1_WIN\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F3B041-F391-44B4-917C-8EAE328F3CF7}|ett1_win.csproj|solutionrelative:studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F3B041-F391-44B4-917C-8EAE328F3CF7}|ett1_win.csproj|C:\\Users\\Boss\\source\\repos\\ETT1_WIN\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F3B041-F391-44B4-917C-8EAE328F3CF7}|ett1_win.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F3B041-F391-44B4-917C-8EAE328F3CF7}|ett1_win.csproj|C:\\Users\\Boss\\source\\repos\\ETT1_WIN\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F3B041-F391-44B4-917C-8EAE328F3CF7}|ett1_win.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F3B041-F391-44B4-917C-8EAE328F3CF7}|ett1_win.csproj|C:\\Users\\Boss\\source\\repos\\ETT1_WIN\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F3B041-F391-44B4-917C-8EAE328F3CF7}|ett1_win.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Boss\\source\\repos\\ETT1_WIN\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Boss\\source\\repos\\ETT1_WIN\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:18:09.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Boss\\source\\repos\\ETT1_WIN\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Boss\\source\\repos\\ETT1_WIN\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-14T06:36:20.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Boss\\source\\repos\\ETT1_WIN\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Boss\\source\\repos\\ETT1_WIN\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:10:40.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Boss\\source\\repos\\ETT1_WIN\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Boss\\source\\repos\\ETT1_WIN\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:10:29.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "202403200916343_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Boss\\source\\repos\\ETT1_WIN\\Migrations\\202403200916343_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\202403200916343_Initial.cs",
+              "ToolTip": "C:\\Users\\Boss\\source\\repos\\ETT1_WIN\\Migrations\\202403200916343_Initial.cs",
+              "RelativeToolTip": "Migrations\\202403200916343_Initial.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:10:24.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "C:\\Users\\Boss\\source\\repos\\ETT1_WIN\\StudentContext.cs",
+              "RelativeDocumentMoniker": "StudentContext.cs",
+              "ToolTip": "C:\\Users\\Boss\\source\\repos\\ETT1_WIN\\StudentContext.cs",
+              "RelativeToolTip": "StudentContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:10:13.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Boss\\source\\repos\\ETT1_WIN\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\Boss\\source\\repos\\ETT1_WIN\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:10:08.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Boss\\source\\repos\\ETT1_WIN\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Boss\\source\\repos\\ETT1_WIN\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:09:19.878Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

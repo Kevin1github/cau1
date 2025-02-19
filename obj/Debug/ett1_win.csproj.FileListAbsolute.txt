@@ -1,0 +1,16 @@
+C:\Users\Boss\source\repos\ETT1_WIN\bin\Debug\ett1_win.exe.config
+C:\Users\Boss\source\repos\ETT1_WIN\bin\Debug\ett1_win.exe
+C:\Users\Boss\source\repos\ETT1_WIN\bin\Debug\ett1_win.pdb
+C:\Users\Boss\source\repos\ETT1_WIN\bin\Debug\EntityFramework.dll
+C:\Users\Boss\source\repos\ETT1_WIN\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Boss\source\repos\ETT1_WIN\bin\Debug\EntityFramework.xml
+C:\Users\Boss\source\repos\ETT1_WIN\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Boss\source\repos\ETT1_WIN\obj\Debug\ett1_win.csproj.AssemblyReference.cache
+C:\Users\Boss\source\repos\ETT1_WIN\obj\Debug\ett1_win.Form1.resources
+C:\Users\Boss\source\repos\ETT1_WIN\obj\Debug\ett1_win.Migrations.Initial.resources
+C:\Users\Boss\source\repos\ETT1_WIN\obj\Debug\ett1_win.Properties.Resources.resources
+C:\Users\Boss\source\repos\ETT1_WIN\obj\Debug\ett1_win.csproj.GenerateResource.cache
+C:\Users\Boss\source\repos\ETT1_WIN\obj\Debug\ett1_win.csproj.CoreCompileInputs.cache
+C:\Users\Boss\source\repos\ETT1_WIN\obj\Debug\ett1_win.csproj.Up2Date
+C:\Users\Boss\source\repos\ETT1_WIN\obj\Debug\ett1_win.exe
+C:\Users\Boss\source\repos\ETT1_WIN\obj\Debug\ett1_win.pdb
